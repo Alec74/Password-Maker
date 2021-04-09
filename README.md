@@ -9,7 +9,7 @@ The objectives to complete this homework include the following:
 * The input has to be validated by the user
 * The generated password is then displayed in the box
 
-![Image of webpage](docs\images\passwordGen.png)
+![Image of webpage](docs/images/passwordGen.png)
 
 View Live Webpage!
 https://alec74.github.io/Password-Maker/
